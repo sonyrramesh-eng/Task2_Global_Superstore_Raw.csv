@@ -1,0 +1,21 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,CA-001,2024-01-05,2024-01-09,Online,C001,Anita Rao,Consumer,India,Bengaluru,Karnataka,South,P001,Technology,Phones,Smartphone X,599.99,2,0.1,120.0
+2,CA-002,2024-01-12,2024-01-16,Retail,C002,Rahul Kumar,Corporate,India,Mumbai,Maharashtra,West,P002,Office Supplies,Paper,Premium Paper,24.5,10,0.05,45.0
+3,CA-003,2024-02-03,2024-02-08,Online,C003,Priya Singh,Consumer,India,Delhi,Delhi,North,P003,Furniture,Chairs,Office Chair,149.99,3,0.15,30.0
+4,CA-004,2024-02-18,2024-02-22,Retail,C004,Arun Das,Home Office,India,Chennai,Tamil Nadu,South,P004,Technology,Accessories,Wireless Mouse,29.99,5,0.0,55.0
+5,CA-005,2024-03-10,2024-03-14,Online,C005,Meera Nair,Consumer,India,Kochi,Kerala,South,P005,Office Supplies,Binders,File Binder,12.75,8,0.1,18.0
+6,CA-006,2024-03-21,2024-03-25,Retail,C006,Vikram Shah,Corporate,India,Pune,Maharashtra,West,P006,Furniture,Tables,Study Table,249.0,2,0.2,-15.0
+7,CA-007,2024-04-02,2024-04-06,Online,C007,Sneha Patil,Consumer,India,Hyderabad,Telangana,South,P007,Technology,Phones,Budget Phone,299.0,4,0.05,90.0
+8,CA-008,2024-04-19,2024-04-23,Retail,C008,Kiran Joshi,Corporate,India,Hyderabad,Gujarat,West,P008,Office Supplies,Storage,Storage Box,39.5,6,0.1,25.0
+9,CA-009,2024-04-19,2024-05-05,Online,C009,Divya Menon,Consumer,India,Bengaluru,Karnataka,South,P009,Technology,Accessories,Keyboard,49.99,3,0.05,20.0
+10,CA-010,2024-05-11,2024-05-15,Retail,C010,Rohit Verma,Corporate,India,Jaipur,Rajasthan,North,P010,Furniture,Chairs,Visitor Chair,89.99,5,0.1,35.0
+11,CA-011,2024-06-01,2024-06-04,Online,C011,Neha Gupta,Consumer,India,Delhi,Delhi,North,P011,Technology,Monitors,LED Monitor,179.99,2,0.05,40.0
+12,CA-012,2024-06-17,2024-06-21,Retail,C012,Suresh Bhat,Corporate,India,Mysuru,Karnataka,South,P012,Office Supplies,Labels,Address Labels,15.25,12,0.0,22.0
+13,CA-013,2024-07-03,2024-07-07,Online,C013,Asha Reddy,Consumer,India,Vijayawada,Andhra Pradesh,South,P013,Furniture,Bookcases,Wood Bookcase,199.99,2,0.15,10.0
+14,CA-014,2024-07-15,2024-07-19,Retail,C014,Manoj Yadav,Corporate,India,Lucknow,Uttar Pradesh,North,P014,Technology,Tablets,Tablet Pro,449.0,1,0.1,75.0
+15,CA-015,2024-08-08,2024-08-12,Online,C015,Pooja Iyer,Consumer,India,Coimbatore,Tamil Nadu,South,P015,Office Supplies,Pens,Gel Pens,8.99,20,0.05,30.0
+16,CA-016,2024-08-20,2024-08-24,Retail,C016,Amit Jain,Corporate,India,Surat,Gujarat,West,P016,Furniture,Tables,Conference Table,499.0,1,0.25,-20.0
+17,CA-017,2024-09-02,2024-09-06,Online,C017,Lakshmi Rao,Consumer,India,Bengaluru,Karnataka,South,P017,Technology,Phones,Smartphone Y,699.99,2,0.05,140.0
+18,CA-018,2024-09-18,2024-09-22,Retail,C018,Deepak Singh,Home Office,India,Chandigarh,Chandigarh,North,P018,Office Supplies,Paper,Copy Paper,18.5,15,0.1,28.0
+19,CA-019,2024-10-06,2024-10-10,Online,C019,Riya Shah,Consumer,India,Mumbai,Maharashtra,West,P019,Furniture,Chairs,Executive Chair,329.99,2,0.15,65.0
+20,CA-020,2024-10-22,2024-10-26,Retail,C020,Naveen Kumar,Corporate,India,Hyderabad,Telangana,South,P020,Technology,Accessories,Headphones,79.99,4,0.05,32.0
